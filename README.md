@@ -1,7 +1,3 @@
-Here’s a professional, attractive, and well-structured **README.md** draft for your **Visitor Counter** repository:
-
----
-
 # 🚀 Visitor Counter
 
 A simple yet powerful **IoT-based visitor counter system** built with **Arduino** and **IR sensors**, designed to automatically count the number of people entering or exiting a room, hall, or building. This project is ideal for smart home automation, classrooms, libraries, offices, or any place where monitoring foot traffic is important.

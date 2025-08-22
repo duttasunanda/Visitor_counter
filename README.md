@@ -8,15 +8,15 @@ A simple yet powerful **IoT-based visitor counter system** built with **Arduino*
 
 * ✅ **Accurate Counting** – Counts both entry and exit.
 * ✅ **Real-Time Updates** – Instantly displays the current visitor count.
-* ✅ **LCD Display** – Shows live data for easy monitoring.
-* ✅ **Compact & Efficient** – Uses simple IR sensor and Arduino setup.
-* ✅ **Scalable** – Can be expanded with IoT (ESP8266/ESP32 + Firebase/MQTT).
+* ✅ **LCD/OLED Display** – Shows live data for easy monitoring.
+* ✅ **Compact & Efficient** – Uses simple IR sensor/ ultrasonic and Arduino setup.
+* ✅ **Scalable** – Can be expanded with IoT (ESP8266/ESP32 + Firebase/MQTT/Blynk).
 
 ---
 
 ## 🛠️ Hardware Requirements
 
-* Arduino Uno / Nano / Mega
+* Arduino Uno / Nano / Mega/ ESP32/ ESP8266
 * 2 × IR Sensors (Entry & Exit detection)
 * 16x2 LCD Display (with or without I2C)
 * Jumper wires & breadboard
